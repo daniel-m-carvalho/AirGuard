@@ -37,7 +37,7 @@ For detailed setup instructions, please refer to the [AirGuard WebApp Setup Guid
 
 ---
 
-Instituto Superior de Engenharia de Lisboa
-MSc in Computer Science and Engineering
-Software Engineering
+Instituto Superior de Engenharia de Lisboa<br>
+MSc in Computer Science and Engineering<br>
+Software Engineering<br>
 Winter Semester of 2024/2025
